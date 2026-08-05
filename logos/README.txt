@@ -1,9 +1,6 @@
 LOGO PLACEHOLDERS
 =================
 
-Drop your own logo images here to replace the placeholder boxes shown in each
-station dossier. Use PNG files (transparent background looks best) named exactly
-by the slug below:
 
 Briefing Room (University & Communities)
   istanbul-university.png
@@ -29,7 +26,3 @@ The Armory (Awards, Products & FlightOps)
   teknofest.png
   istanbul-university.png   (provided)
 
-Notes
-- If a file is missing, a labeled placeholder box is shown automatically.
-- Recommended: square-ish or wide logos, ~200x80px, PNG with transparency.
-- No code changes needed — just add the file with the matching name.
